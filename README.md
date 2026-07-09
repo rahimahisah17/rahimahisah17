@@ -4,12 +4,13 @@
 ☁️ AZ-104 Certified | ☸️ KCNA Certified | 🐧 Linux Enthusiast | 🚀 Cloud & DevOps Engineer
 </h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=AZ-104+Certified;KCNA+Certified;Cloud+%26+DevOps+Engineer;Linux+Enthusiast;Building+Cloud+Projects;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=AZ-104+Certified;Microsoft+Certified:+Power+BI+Data+Analyst+Associate;KCNA+Certified;Cloud+%26+DevOps+Engineer;Linux+Enthusiast;Building+Cloud+Projects;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 ## 👩‍💻 About Me
 
 - ☁️ Microsoft Certified **Azure Administrator Associate (AZ-104)**
+- 📊 Microsoft Certified: **Power BI Data Analyst Associate**
 - ☸️ Certified **Kubernetes and Cloud Native Associate (KCNA)**
 - 🐧 Passionate about Linux, Cloud Computing and Open-Source Technologies
 - 🚀 Currently building hands-on projects in **Linux, Git, GitHub and Microsoft Azure**
