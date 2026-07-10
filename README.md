@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahimah Sulayman</h1>
 
 <h3 align="center">
-☁️ AZ-104 Certified | ☸️ KCNA Certified | 🐧 Linux Enthusiast | 🚀 Cloud & DevOps Engineer
+☁️ AZ-104 Certified | ☸️ KCNA Certified | 🐧 Linux Enthusiast | 📊 PL-300 Certified | 🚀 Cloud & DevOps Engineer
 </h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=AZ-104+Certified;Microsoft+Certified:+Power+BI+Data+Analyst+Associate;KCNA+Certified;Cloud+%26+DevOps+Engineer;Linux+Enthusiast;Building+Cloud+Projects;Always+Learning+Something+New" alt="Typing SVG" />
