@@ -39,28 +39,20 @@
   <img src="certificates/cloud-security-monitoring.png" width="250" alt="Cloud Security & Monitoring" />
 </p>
 
-<p align="left">
-  <a href="https://dev.to/rahimah_dev" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" height="50"/>
-  </a>
-</p>
-
 
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/rahimah-sulayman" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
   </a>
 
-  <a href="mailto:rahimahisah17@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:YOUR-EMAIL@EMAIL.COM">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email"/>
   </a>
-</p>
 
-<p align="left">
   <a href="https://dev.to/rahimah_dev" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" height="50"/>
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="40" alt="Dev.to"/>
   </a>
 </p>
 
