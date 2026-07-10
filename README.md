@@ -28,15 +28,17 @@
 
 ## 🏆 Certifications & Microsoft Applied Skills
 <p align="center">
-  <img src="certificates/Microsoft Azure Administrator Associate.png" width="250" alt="AZ-104" />
-  <img src="certificates/power-bi-data-analyst.png" width="250" alt="Power BI Data Analyst" />
-  <img src="certificates/KCNA.png" width="250" alt="KCNA" />
+  <img src="certificates/Microsoft Azure Administrator Associate.png" width="220" height="170" style="object-fit:cover;" alt="AZ-104" />
+  <img src="certificates/power-bi-data-analyst.png" width="220" height="170" style="object-fit:cover;" alt="Power BI Data Analyst" />
+  <img src="certificates/KCNA.png" width="220" height="170" style="object-fit:cover;" alt="KCNA" />
 </p>
 
 <p align="center">
-  <img src="certificates/azure-management-tasks.png" width="250" alt="Azure Management Tasks" />
-  <img src="certificates/github-copilot.png" width="250" alt="GitHub Copilot" />
-  <img src="certificates/cloud-security-monitoring.png" width="250" alt="Cloud Security & Monitoring" />
+  <img src="certificates/azure-management-tasks.png" width="220" height="170" style="object-fit:cover;" alt="Azure Management Tasks" />
+  <img src="certificates/github-copilot.png" width="220" height="170" style="object-fit:cover;" alt="GitHub Copilot" />
+  <img src="certificates/cloud-security-monitoring.png" width="220" height="170" style="object-fit:cover;" alt="Cloud Security & Monitoring" />
+  <img src="certificates/azure-networking.png" width="220" height="170" style="object-fit:cover;" alt="Azure Networking" />
+  <img src="certificates/azure-storage-security.png" width="220" height="170" style="object-fit:cover;" alt="Azure Storage Security" />
 </p>
 
 ## 🤝 Connect with Me
