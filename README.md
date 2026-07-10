@@ -18,6 +18,14 @@
 - 🎯 Goal: To become a highly skilled **Cloud & DevOps Engineer**
 - ⚡ I believe in learning by building real-world projects.
 
+## 🛠️ Microsoft Applied Skills
+
+- ✅ **Get Started with Azure Management Tasks**
+- ✅ **Accelerate AI-Assisted Development by Using GitHub Copilot**
+- ✅ **Get Started with Cloud Security and Monitoring Tasks**
+- ✅ **Configure Secure Access to Your Workloads Using Azure Networking**
+- ✅ **Secure Storage for Azure Files and Azure Blob Storage**
+
 ## 🤝 Connect with Me
 
 <p align="left">
