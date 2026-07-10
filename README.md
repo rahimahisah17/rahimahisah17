@@ -39,10 +39,12 @@
   <img src="certificates/cloud-security-monitoring.png" width="250" alt="Cloud Security & Monitoring" />
 </p>
 
-<p align="center">
-  <img src="certificates/azure-networking.png" width="250" alt="Azure Networking" />
-  <img src="certificates/azure-storage-security.png" width="250" alt="Azure Storage Security" />
+<p align="left">
+  <a href="https://dev.to/rahimah_dev" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" height="50"/>
+  </a>
 </p>
+
 
 ## 🤝 Connect with Me
 
@@ -55,6 +57,13 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
+<p align="left">
+  <a href="https://dev.to/rahimah_dev" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" height="50"/>
+  </a>
+</p>
+
 
 ## 🛠️ Languages & Tools
 
