@@ -39,7 +39,7 @@
   <img src="certificates/cloud-security-monitoring.png" width="220" height="170" style="object-fit:cover;" alt="Cloud Security & Monitoring" />
   <img src="certificates/azure-networking.png" width="220" height="170" style="object-fit:cover;" alt="Azure Networking" />
   <img src="certificates/azure-storage-security.png" width="220" height="170" style="object-fit:cover;" alt="Azure Storage Security" />
-  <img src="certificates/rahimah-sulayman-Identities and access using Microsoft Entra.png" width="220" height="220" style="object-fit:cover; alt="Azure Identities and Access" />
+  <img src="certificates/Identities and access using Microsoft Entra.png" width="220" height="220" style="object-fit:cover; alt="Azure Identities and Access" />
 </p>
 
 ## 🤝 Connect with Me
