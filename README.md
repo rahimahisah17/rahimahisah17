@@ -112,10 +112,8 @@ Contributed to **PinpointPro**, an open-source location intelligence project, by
 - ☁️ **Azure Projects** *(Coming Soon)*
 - ☸️ **Cloud & DevOps Projects** *(Coming Soon)*
 
-  
-
-[![PR #7](https://img.shields.io/badge/PR%20%237-Merged-success)](https://github.com/raphgm/pinpointpro/pull/7)
-[![PR #3](https://img.shields.io/badge/PR%20%233-Merged-success)](https://github.com/raphgm/pinpointpro/pull/3)
+- [![PR #7](https://img.shields.io/badge/PR%20%237-Merged-success)](https://github.com/raphgm/pinpointpro/pull/7)
+  [![PR #3](https://img.shields.io/badge/PR%20%233-Merged-success)](https://github.com/raphgm/pinpointpro/pull/3)
 
 
 
