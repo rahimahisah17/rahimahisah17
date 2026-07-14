@@ -50,7 +50,7 @@
 
 ## Badges
 <p align="center">
-  <img src="certificates/mongodb-overview-core-concepts-and-architecture.png" width="220" height="220" style="object-fit:cover; alt="Azure Identities and Access" />
+  <img src="certificates/mongodb-overview-core-concepts-and-architecture.png" width="130" height="130" style="object-fit:cover; alt="Azure Identities and Access" />
 </p>
 
 ## 🤝 Open Source Contributions
