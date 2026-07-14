@@ -48,7 +48,10 @@
   <img src="certificates/Identities and access using Microsoft Entra.png" width="220" height="220" style="object-fit:cover; alt="Azure Identities and Access" />
 </p>
 
-
+## Badges
+<p align="center">
+  <img src="certificates/Identities and access using Microsoft Entra.png" width="220" height="220" style="object-fit:cover; alt="Azure Identities and Access" />
+</p>
 ## 🤝 Open Source Contributions
 
 ### 📌 PinpointPro
