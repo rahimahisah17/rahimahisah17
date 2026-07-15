@@ -13,15 +13,18 @@
 • Successfully contributed to and merged changes into a public GitHub project.
 
 ## 👩‍💻 About Me
-
-- ☁️ Microsoft Certified **Azure Administrator Associate (AZ-104)**
-- 📊 Microsoft Certified: **Power BI Data Analyst Associate**
-- ☸️ Certified **Kubernetes and Cloud Native Associate (KCNA)**
 - 🐧 Passionate about Linux, Cloud Computing and Open-Source Technologies
 - 🚀 Currently building hands-on projects in **Linux, Git, GitHub and Microsoft Azure**
 - 🌱 Continuously learning **Docker, Kubernetes, Bash Scripting and DevOps**
 - 🎯 Goal: To become a highly skilled **Cloud & DevOps Engineer**
 - ⚡ I believe in learning by building real-world projects.
+
+
+## 🏆 Certifications
+
+- ☁️ Microsoft Certified **Azure Administrator Associate (AZ-104)**
+- 📊 Microsoft Certified: **Power BI Data Analyst Associate**
+- ☸️ Certified **Kubernetes and Cloud Native Associate (KCNA)**
 
 ## 🛠️ Microsoft Applied Skills
 
@@ -32,27 +35,6 @@
 - ✅ **Secure Storage for Azure Files and Azure Blob Storage**
 - ✅ **Get started with Identities and access using Microsoft Entra**
   
-## 🏆 Certifications & Microsoft Applied Skills
-<p align="center">
-  <img src="certificates/Microsoft Azure Administrator Associate.png" width="220" height="170" style="object-fit:cover;" alt="AZ-104" />
-  <img src="certificates/power-bi-data-analyst.png" width="220" height="170" style="object-fit:cover;" alt="Power BI Data Analyst" />
-  <img src="certificates/KCNA.png" width="220" height="170" style="object-fit:cover;" alt="KCNA" />
-</p>
-
-<p align="center">
-  <img src="certificates/azure-management-tasks.png" width="220" height="170" style="object-fit:cover;" alt="Azure Management Tasks" />
-  <img src="certificates/github-copilot.png" width="220" height="170" style="object-fit:cover;" alt="GitHub Copilot" />
-  <img src="certificates/cloud-security-monitoring.png" width="220" height="170" style="object-fit:cover;" alt="Cloud Security & Monitoring" />
-  <img src="certificates/azure-networking.png" width="220" height="170" style="object-fit:cover;" alt="Azure Networking" />
-  <img src="certificates/azure-storage-security.png" width="220" height="170" style="object-fit:cover;" alt="Azure Storage Security" />
-  <img src="certificates/Identities and access using Microsoft Entra.png" width="220" height="220" style="object-fit:cover; alt="Azure Identities and Access" />
-</p>
-
-## Badges
-<p align="center">
-  <img src="certificates/mongodb-overview-core-concepts-and-architecture.png" width="130" height="130" style="object-fit:cover; alt="Azure Identities and Access" />
-</p>
-
 ## 🤝 Open Source Contributions
 
 ### 📌 PinpointPro
