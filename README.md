@@ -95,7 +95,7 @@ Contributed to **PinpointPro**, an open-source location intelligence project, by
 ## 🚀 Featured Projects
 
 - 🐧 **[Linux Commands Repository](https://github.com/rahimahisah17/linux-commands)** – A comprehensive collection of Linux commands with explanations, real-world use cases, examples, and screenshots.
-- ☁️ **Azure Projects** *(Coming Soon)*
+- ☁️ **[Engineering Workflow](https://dev.to/rahimah_dev/git-engineering-workflow-1-2l0k)** - A hands-on lab to practice and understand a complete Git and GitHub engineering workflow.
 - ☸️  **[Simple Container Lab](https://github.com/rahimahisah17/simple-container-lab)** - This project demonstrates the fundamentals of containerization using Docker and version control using Git. 
 
 - [![PR #7](https://img.shields.io/badge/PR%20%237-Merged-success)](https://github.com/raphgm/pinpointpro/pull/7)
