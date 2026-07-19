@@ -25,8 +25,7 @@
 
 - 📊 **Microsoft Certified: Power BI Data Analyst Associate** • [View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/RahimahSulayman-0915/5F1BFD3BA9DAA7EB?sharingId=573E6CF4FC4F787C)
 
-- ☸️ **Linux Foundation Certified: Kubernetes and Cloud Native Associate (KCNA)** • [Verify Certificate](https://verify.linuxfoundation.org/)  
-  *Last Name:* **Sulayman** | *Certificate ID:* **LF-g5jovtb54h**
+- ☸️ **Linux Foundation Certified: Kubernetes and Cloud Native Associate (KCNA)** • [View Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/d07ddc58-5cbd-4cc2-9e0c-e433da000788-rahimah-sulayman-1e90dda2-e5f5-4d4b-88bc-a946f045ab9a-certificate.pdf)
 
 ## 🛠️ Microsoft Applied Skills
 
@@ -41,8 +40,8 @@
 - ✅ **Get started with Azure management tasks** • [View Applied Skill](https://learn.microsoft.com/api/credentials/share/en-us/RahimahSulayman-0915/50D01B627B10D39?sharingId=573E6CF4FC4F787C)
 
 - ✅ **Secure storage for Azure Files and Azure Blob Storage** • [View Applied Skill](https://learn.microsoft.com/api/credentials/share/en-us/RahimahSulayman-0915/7695DE94C0F14312?sharingId=573E6CF4FC4F787C)
-  
-## 🤝 Open Source Contributions
+
+- ## 🤝 Open Source Contributions
 
 ### 📌 PinpointPro
 
