@@ -19,21 +19,28 @@
 - 🎯 Goal: To become a highly skilled **Cloud & DevOps Engineer**
 - ⚡ I believe in learning by building real-world projects.
 
-
 ## 🏆 Certifications
 
-- ☁️ Microsoft Certified **Azure Administrator Associate (AZ-104)**
-- 📊 Microsoft Certified: **Power BI Data Analyst Associate**
-- ☸️ Certified **Kubernetes and Cloud Native Associate (KCNA)**
+- ☁️ **Microsoft Certified: Azure Administrator Associate (AZ-104)** • [View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/RahimahSulayman-0915/1BC3CDABA4EBB49?sharingId=573E6CF4FC4F787C)
+
+- 📊 **Microsoft Certified: Power BI Data Analyst Associate** • [View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/RahimahSulayman-0915/5F1BFD3BA9DAA7EB?sharingId=573E6CF4FC4F787C)
+
+- ☸️ **Linux Foundation Certified: Kubernetes and Cloud Native Associate (KCNA)** • [Verify Certificate](https://verify.linuxfoundation.org/)  
+  *Last Name:* **Sulayman** | *Certificate ID:* **LF-g5jovtb54h**
 
 ## 🛠️ Microsoft Applied Skills
 
-- ✅ **Get Started with Azure Management Tasks**
-- ✅ **Accelerate AI-Assisted Development by Using GitHub Copilot**
-- ✅ **Get Started with Cloud Security and Monitoring Tasks**
-- ✅ **Configure Secure Access to Your Workloads Using Azure Networking**
-- ✅ **Secure Storage for Azure Files and Azure Blob Storage**
-- ✅ **Get started with Identities and access using Microsoft Entra**
+- ✅ **Get started with identities and access using Microsoft Entra** • [View Applied Skill](https://learn.microsoft.com/api/credentials/share/en-us/RahimahSulayman-0915/E7D069662D457C96?sharingId=573E6CF4FC4F787C)
+
+- ✅ **Get started with cloud security and monitoring tasks** • [View Applied Skill](https://learn.microsoft.com/api/credentials/share/en-us/RahimahSulayman-0915/CD7BEF407B8544AD?sharingId=573E6CF4FC4F787C)
+
+- ✅ **Configure secure access to your workloads using Azure networking** • [View Applied Skill](https://learn.microsoft.com/api/credentials/share/en-us/RahimahSulayman-0915/7A151363CFF9E4A1?sharingId=573E6CF4FC4F787C)
+
+- ✅ **Accelerate AI-assisted development by using GitHub Copilot** • [View Applied Skill](https://learn.microsoft.com/api/credentials/share/en-us/RahimahSulayman-0915/8277483F65FD6700?sharingId=573E6CF4FC4F787C)
+
+- ✅ **Get started with Azure management tasks** • [View Applied Skill](https://learn.microsoft.com/api/credentials/share/en-us/RahimahSulayman-0915/50D01B627B10D39?sharingId=573E6CF4FC4F787C)
+
+- ✅ **Secure storage for Azure Files and Azure Blob Storage** • [View Applied Skill](https://learn.microsoft.com/api/credentials/share/en-us/RahimahSulayman-0915/7695DE94C0F14312?sharingId=573E6CF4FC4F787C)
   
 ## 🤝 Open Source Contributions
 
