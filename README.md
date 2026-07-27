@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="banner.png" alt="Rahimah Sulayman Banner" width="100%">
-</p>
-
-<h1 align="center" style="color:white;">Rahimah Sulayman</h1>
+<h1 align="center" style="color:black;">Rahimah Sulayman</h1>
 
 <p align="center">
   <b>Cloud & DevOps Engineer</b><br>
