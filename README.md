@@ -1,8 +1,5 @@
-<h1 align="center" style="color:black;">Rahimah Sulayman</h1>
-
 <p align="center">
-  <b>Cloud & DevOps Engineer</b><br>
-  Microsoft Azure • Kubernetes • Linux • GitHub
+  <img src="banner.png" alt="Rahimah Dev Banner" width="100%">
 </p>
 
 <h3 align="center">
