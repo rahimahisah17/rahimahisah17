@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Rahimah Sulayman</h1>
+<p align="center">
+  <img src="banner.png" alt="Rahimah Sulayman Banner" width="100%">
+</p>
+
+<h1 align="center" style="color:white;">Rahimah Sulayman</h1>
+
+<p align="center">
+  <b>Cloud & DevOps Engineer</b><br>
+  Microsoft Azure • Kubernetes • Linux • GitHub
+</p>
 
 <h3 align="center">
 ☁️ AZ-104 Certified | ☸️ KCNA Certified | 🐧 Linux Enthusiast | 📊 PL-300 Certified | 🚀 Cloud & DevOps Engineer 
