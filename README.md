@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Rahimah Dev Banner" width="100%">
+  <img src="./banner%20%281%29.gif" alt="RAHIMAH SULAYMAN - Cloud & DevOps Engineer" width="100%">
 </p>
 
 <h3 align="center">
