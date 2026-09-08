@@ -102,10 +102,10 @@ Contributed to **PinpointPro**, an open-source location intelligence project, by
 </p>
 
 ## ☁️ Cloud & DevOps Stack
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,kubernetes,docker,terraform,linux,bash,git,github,azuredevops,powershell,python,js,vscode,ansible,prometheus,grafana,nginx,redis,mongodb,postgres,mysql,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,kubernetes,docker,terraform,linux,bash,git,github,githubactions,powershell,python,js,vscode,ansible,prometheus,grafana,nginx,mongodb,postgres,mysql,ubuntu=7" />
 </p>
+
 
 ## Featured Projects
 
