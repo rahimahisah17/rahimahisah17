@@ -80,6 +80,11 @@ Contributed to **PinpointPro**, an open-source location intelligence project, by
 
 ⭐ Looking forward to contributing to more open-source projects in Cloud, DevOps, Linux, and Kubernetes.
 
+- [![PR #7](https://img.shields.io/badge/PR%20%237-Merged-success)](https://github.com/raphgm/pinpointpro/pull/7)
+  [![PR #3](https://img.shields.io/badge/PR%20%233-Merged-success)](https://github.com/raphgm/pinpointpro/pull/3)
+
+---
+
 ## 🤝 Connect with Me
 
 <p align="left">
@@ -96,22 +101,76 @@ Contributed to **PinpointPro**, an open-source location intelligence project, by
   </a>
 </p>
 
-
-## 🛠️ Languages & Tools
+## ☁️ Cloud & DevOps Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,linux,bash,git,github,vscode,docker,kubernetes,terraform,python" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,kubernetes,docker,terraform,linux,bash,git,github,azuredevops,powershell,python,js,vscode,ansible,prometheus,grafana,nginx,redis,mongodb,postgres,mysql,ubuntu" />
 </p>
 
-## 🚀 Featured Projects
+## Featured Projects
 
-- 🐧 **[Linux Commands Repository](https://github.com/rahimahisah17/linux-commands)** – A comprehensive collection of Linux commands with explanations, real-world use cases, examples, and screenshots.
-- ☁️ **[Engineering Workflow](https://dev.to/rahimah_dev/git-engineering-workflow-1-2l0k)** - A hands-on lab to practice and understand a complete Git and GitHub engineering workflow.
-- ☸️  **[Simple Container Lab](https://github.com/rahimahisah17/simple-container-lab)** - This project demonstrates the fundamentals of containerization using Docker and version control using Git.
-- 🛠️  **[cloud-devops-ci-cd-lab](https://github.com/rahimahisah17/cloud-devops-ci-cd-lab)** - A hands-on DevOps project demonstrating a production-inspired Git workflow using feature branches, pull requests, Docker, and   GitHub Actions to implement Continuous Integration and Continuous Delivery (CI/CD).
+### 🌍 [AFROVANT](https://www.afrovant.com.ng/)
 
-- [![PR #7](https://img.shields.io/badge/PR%20%237-Merged-success)](https://github.com/raphgm/pinpointpro/pull/7)
-  [![PR #3](https://img.shields.io/badge/PR%20%233-Merged-success)](https://github.com/raphgm/pinpointpro/pull/3)
+> **AI-powered community reporting platform connecting people, evidence, and local action.**
+
+A full-stack platform designed to help communities **report, document, and track local issues** using location-aware and AI-powered capabilities.
+
+**Tech Stack:** `React` `Vite` `JavaScript` `Tailwind CSS` `Node.js` `Express` `Google AI` `GPS`
+
+**[🌐 Live Website](https://www.afrovant.com.ng/) · [💻 GitHub](https://github.com/rahimahisah17/AFROVANT)**
+
+---
+
+### ⚙️ [Cloud DevOps CI/CD Lab](https://github.com/rahimahisah17/cloud-devops-ci-cd-lab)
+
+> **Production-inspired DevOps workflow demonstrating automated CI/CD, containerization, and modern Git practices.**
+
+A hands-on project that follows the software delivery lifecycle from **feature development and pull requests to automated builds, Docker image creation, and publishing to GitHub Container Registry (GHCR).**
+
+**Tech Stack:** `Git` `GitHub` `GitHub Actions` `Docker` `GHCR` `Nginx` `Linux`
+
+**[💻 GitHub Repository](https://github.com/rahimahisah17/cloud-devops-ci-cd-lab)**
+
+---
+
+### 🐧 [Linux Commands Documentation](https://github.com/rahimahisah17/linux-commands)
+
+> **Hands-on Linux command reference built for aspiring Cloud and DevOps Engineers.**
+
+A practical documentation project covering Linux navigation, file management, text processing, and searching — with **tested commands, examples, explanations, terminal output, and real-world use cases**.
+
+**Tech Stack:** `Linux` `Bash` `WSL` `Git` `CLI`
+
+**[💻 GitHub Repository](https://github.com/rahimahisah17/linux-commands)**
+
+---
+
+### 🐳 [Simple Container Lab](https://github.com/rahimahisah17/simple-container-lab)
+
+> **Hands-on containerization lab demonstrating how applications are packaged, built, and run with Docker.**
+
+A practical DevOps lab covering the complete workflow from **creating a Node.js application and Dockerfile to building images, running containers, and managing the project with Git and GitHub.**
+
+**Tech Stack:** `Docker` `Node.js` `Linux` `Git` `GitHub` `WSL`
+
+**[💻 GitHub Repository](https://github.com/rahimahisah17/simple-container-lab)**
+
+---
+
+### ☁️ [Global Retail Production Infrastructure Lab](https://github.com/rahimahisah17/globalretail-prod-lab)
+
+> **Production-style Azure infrastructure lab demonstrating cloud provisioning, networking, security, and real-world troubleshooting.**
+
+An Azure infrastructure project built with **Azure CLI**, featuring Linux and Windows virtual machines, VNet networking, NSGs, Availability Zones, Nginx, IIS, and hands-on troubleshooting of deployment and connectivity challenges.
+
+**Tech Stack:** `Microsoft Azure` `Azure CLI` `Linux` `Windows Server` `VNet` `NSG` `Nginx` `IIS`
+
+**[💻 GitHub Repository](https://github.com/rahimahisah17/globalretail-prod-lab)**
+
+---
+
+
+
 
 
 
