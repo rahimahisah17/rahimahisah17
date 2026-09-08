@@ -43,6 +43,9 @@
 
 - ✅ **Secure storage for Azure Files and Azure Blob Storage** • [View Applied Skill](https://learn.microsoft.com/api/credentials/share/en-us/RahimahSulayman-0915/7695DE94C0F14312?sharingId=573E6CF4FC4F787C)
 
+- ✅ **Resolve GitHub issues by using GitHub Copilot** • [View Applied Skill](https://learn.microsoft.com/api/credentials/share/en-us/RahimahSulayman-0915/4DF61593A72681A9?sharingId=573E6CF4FC4F787C)
+
+
 - ## 🤝 Open Source Contributions
 
 ### 📌 PinpointPro
