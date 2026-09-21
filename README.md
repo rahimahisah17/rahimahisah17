@@ -71,19 +71,36 @@ Contributed to **PinpointPro**, an open-source location intelligence project, by
 
 ---
 
+### 📌 LibreDB Studio
+
+Contributed to **LibreDB Studio**, an open-source multi-database management studio, by fixing a security issue in its Docker setup.
+
+### 🚀 Contributions
+
+#### ✅ PR #1039 – Publish Postgres containers on loopback only
+
+- Fixed [#1011](https://github.com/libredb/libredb-studio/issues/1011): three Docker Compose files exposed a Postgres container with default credentials on every network interface. Bound it to `127.0.0.1` in `docker-compose.yml`, `docker/postgres.yml` and `database-compose.yml`.
+- Checked the docs for anything that relied on the open port, and verified each file with `docker compose config`.
+- Reviewed and merged by the maintainers, with all CI checks passing.
+
+🔗 **Pull Request:** [libredb/libredb-studio#1039](https://github.com/libredb/libredb-studio/pull/1039)
+
+---
 ### 🏆 Impact
 
-- Successfully submitted **2 merged pull requests**.
+- Successfully submitted **3 merged pull requests**.
 - Both contributions were **reviewed, approved, and merged** by the project maintainer.
 - Demonstrated proficiency with GitHub's open-source collaboration workflow, including forks, feature branches, pull requests, code reviews, and merges.
 
-🔗 **Repository:** https://github.com/raphgm/pinpointpro
+🔗 **Repositories:**
+- [raphgm/pinpointpro](https://github.com/raphgm/pinpointpro)
+- [libredb/libredb-studio](https://github.com/libredb/libredb-studio)
 
 ⭐ Looking forward to contributing to more open-source projects in Cloud, DevOps, Linux, and Kubernetes.
 
 - [![PR #7](https://img.shields.io/badge/PR%20%237-Merged-success)](https://github.com/raphgm/pinpointpro/pull/7)
   [![PR #3](https://img.shields.io/badge/PR%20%233-Merged-success)](https://github.com/raphgm/pinpointpro/pull/3)
-
+  [![PR #1039](https://img.shields.io/badge/PR%20%231039-Merged-brightgreen)](https://github.com/libredb/libredb-studio/pull/1039)
 ---
 
 ## 🤝 Connect with Me
