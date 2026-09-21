@@ -86,21 +86,65 @@ Contributed to **LibreDB Studio**, an open-source multi-database management stud
 🔗 **Pull Request:** [libredb/libredb-studio#1039](https://github.com/libredb/libredb-studio/pull/1039)
 
 ---
+
+#### ✅ PR #1041 – Fix the `postgres:18` data mount
+
+- Fixed [#792](https://github.com/libredb/libredb-studio/issues/792): `postgres:18` expects its data volume at `/var/lib/postgresql`, but the Compose files mounted `/var/lib/postgresql/data`, so the database container exited at startup and never loaded its seed data.
+- Reproduced the failure on a fresh volume, then verified the fix with the real files: the container started healthy and the seed created `libredb_dev` with 10 tables.
+- Applied the fix in `docker-compose.yml`, `docker/postgres.yml`, `docker-compose.example.yml` and the `docs/STORAGE.md` snippet, with a note on how to migrate a volume from the old layout.
+- Reviewed and merged by the maintainers, with CI passing.
+
+🔗 **Pull Request:** [libredb/libredb-studio#1041](https://github.com/libredb/libredb-studio/pull/1041)
+
+---
+### 📌 cloudcost-cli
+
+Contributed to **cloudcost-cli**, an open-source, provider-neutral FinOps data platform, by adding automated tests and CI for its cost-policy engine.
+
+### 🚀 Contributions
+
+#### ✅ PR #9 – Policy SQL tests and a CI workflow
+
+- Added `pytest` as a dev dependency (with the lockfile updated) and a GitHub Actions workflow that runs the test suite on pull requests and on pushes to `main`.
+- Wrote unit tests for the `aks_idle_nodepool` policy, running its SQL against a small in-memory DuckDB table, and covering the CPU threshold, the cost formula and the exclusions.
+- Merged by the maintainer, and the workflow has passed on Python 3.13 on the project's repo.
+- Part of issue [#6](https://github.com/raphgm/cloudcost-cli/issues/6).
+
+🔗 **Pull Request:** [raphgm/cloudcost-cli#9](https://github.com/raphgm/cloudcost-cli/pull/9)
+
+---
+
+#### ✅ PR #10 – Policy SQL tests for four more policies
+
+- Added a shared `run_policy` test fixture and 34 unit tests for the `rightsizing_utilization`, `old_snapshots`, `idle_container_registries` and `idle_app_service_plans` policies, running each policy's SQL against small in-memory DuckDB tables.
+- Checked that the tests catch regressions by deliberately breaking a copy of each policy in 17 ways (boundaries, prices, joins, aggregates, filters); every change made at least one test fail.
+- Reviewed by the maintainer, who re-ran the suite and spot-checked the tests against the real policy SQL, then merged it.
+- Part of issue [#6](https://github.com/raphgm/cloudcost-cli/issues/6).
+
+🔗 **Pull Request:** [raphgm/cloudcost-cli#10](https://github.com/raphgm/cloudcost-cli/pull/10)
+
+---
+
 ### 🏆 Impact
 
-- Successfully submitted **3 merged pull requests**.
+- Successfully submitted **6 merged pull requests**.
 - Both contributions were **reviewed, approved, and merged** by the project maintainer.
 - Demonstrated proficiency with GitHub's open-source collaboration workflow, including forks, feature branches, pull requests, code reviews, and merges.
 
 🔗 **Repositories:**
 - [raphgm/pinpointpro](https://github.com/raphgm/pinpointpro)
 - [libredb/libredb-studio](https://github.com/libredb/libredb-studio)
+- [raphgm/cloudcost-cli](https://github.com/raphgm/cloudcost-cli)
 
 ⭐ Looking forward to contributing to more open-source projects in Cloud, DevOps, Linux, and Kubernetes.
 
 - [![PR #7](https://img.shields.io/badge/PR%20%237-Merged-success)](https://github.com/raphgm/pinpointpro/pull/7)
   [![PR #3](https://img.shields.io/badge/PR%20%233-Merged-success)](https://github.com/raphgm/pinpointpro/pull/3)
-  [![PR #1039](https://img.shields.io/badge/PR%20%231039-Merged-brightgreen)](https://github.com/libredb/libredb-studio/pull/1039)
+  [![PR #1039](https://img.shields.io/badge/PR%20%231039-Merged-yellow)](https://github.com/libredb/libredb-studio/pull/1039)
+  [![PR #1041](https://img.shields.io/badge/PR%20%231041-Merged-yellow)](https://github.com/libredb/libredb-studio/pull/1041)
+  [![PR #9](https://img.shields.io/badge/PR%20%239-Merged-orange)](https://github.com/raphgm/cloudcost-cli/pull/9)
+  [![PR #10](https://img.shields.io/badge/PR%20%2310-Merged-orange)](https://github.com/raphgm/cloudcost-cli/pull/10)
+  
 ---
 
 ## 🤝 Connect with Me
