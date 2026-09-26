@@ -179,7 +179,7 @@ A full-stack platform designed to help communities **report, document, and track
 
 **Tech Stack:** `React` `Vite` `JavaScript` `Tailwind CSS` `Node.js` `Express` `Google AI` `GPS`
 
-**[Live Website](https://www.afrovant.com.ng/) · [💻 GitHub](https://github.com/rahimahisah17/AFROVANT)**
+**[Live Website](https://www.afrovant.com.ng/) · [GitHub](https://github.com/rahimahisah17/AFROVANT)**
 
 ---
 
