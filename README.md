@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-☁️ AZ-104 Certified | ☸️ KCNA Certified | 🐧 Linux Enthusiast | 📊 PL-300 Certified | 🚀 Cloud & DevOps Engineer 
+AZ-104 Certified | KCNA Certified | Linux Enthusiast | PL-300 Certified | Cloud & DevOps Engineer 
 
 </h3>
 <p align="center">
