@@ -10,7 +10,7 @@ AZ-104 Certified | KCNA Certified | Linux Enthusiast | PL-300 Certified | Cloud 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=AZ-104+Certified;Microsoft+Certified:+Power+BI+Data+Analyst+Associate;KCNA+Certified;Cloud+%26+DevOps+Engineer;Linux+Enthusiast;Building+Cloud+Projects;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
-## 🏆 Open Source Contributor
+## Open Source Contributor
 
 • Successfully contributed to and merged changes into a public GitHub project.
 
