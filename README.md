@@ -95,6 +95,7 @@ Contributed to **LibreDB Studio**, an open-source multi-database management stud
 🔗 **Pull Request:** [libredb/libredb-studio#1041](https://github.com/libredb/libredb-studio/pull/1041)
 
 ---
+
 ### cloudcost-cli
 
 Contributed to **cloudcost-cli**, an open-source, provider-neutral FinOps data platform, by adding automated tests and CI for its cost-policy engine.
@@ -123,16 +124,27 @@ Contributed to **cloudcost-cli**, an open-source, provider-neutral FinOps data p
 
 ---
 
+### Terraform Proxmox SDN
+
+Contributed to **Terraform Proxmox SDN**, an open-source Terraform provider for managing Proxmox SDN resources, by adding validation for SNAT and host-level L3 routing configuration.
+
+### Contributions
+
+#### ✅ PR #63 – Validate SNAT requires host L3
+- Added plan-time validation to reject `enable_snat = true` when `enable_host_l3 = false`, ensuring SNAT is only configured through the host-level L3 gateway.
+- Added Terraform plan tests covering invalid SNAT and host L3 combinations, as well as valid host-managed L3 and edge-routed configurations.
+- Verified the implementation with `terraform test -no-color`, with **29 tests passing and 0 failures**.
+- Formatted the validation test and verified that `terraform fmt -check -recursive` passes.
+
+🔗 **Pull Request:** [hybridops-tech/terraform-proxmox-sdn#63](https://github.com/hybridops-tech/terraform-proxmox-sdn/pull/63)
+
+---
+
 ### Impact
 
-- Successfully submitted **6 merged pull requests**.
+- Successfully submitted **7 merged pull requests**.
 - Both contributions were **reviewed, approved, and merged** by the project maintainer.
 - Demonstrated proficiency with GitHub's open-source collaboration workflow, including forks, feature branches, pull requests, code reviews, and merges.
-
-🔗 **Repositories:**
-- [raphgm/pinpointpro](https://github.com/raphgm/pinpointpro)
-- [libredb/libredb-studio](https://github.com/libredb/libredb-studio)
-- [raphgm/cloudcost-cli](https://github.com/raphgm/cloudcost-cli)
 
 Looking forward to contributing to more open-source projects in Cloud, DevOps, Linux, and Kubernetes.
 
@@ -142,7 +154,8 @@ Looking forward to contributing to more open-source projects in Cloud, DevOps, L
   [![PR #1041](https://img.shields.io/badge/PR%20%231041-Merged-yellow)](https://github.com/libredb/libredb-studio/pull/1041)
   [![PR #9](https://img.shields.io/badge/PR%20%239-Merged-orange)](https://github.com/raphgm/cloudcost-cli/pull/9)
   [![PR #10](https://img.shields.io/badge/PR%20%2310-Merged-orange)](https://github.com/raphgm/cloudcost-cli/pull/10)
-  
+  [![PR #63](https://img.shields.io/badge/PR%2363-Merged-blue)](https://github.com/hybridops-tech/terraform-proxmox-sdn/pull/63)
+
 ---
 
 ## 🤝 Connect with Me
