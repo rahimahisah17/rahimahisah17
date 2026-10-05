@@ -43,7 +43,7 @@ AZ-104 Certified | KCNA Certified | Linux Enthusiast | PL-300 Certified | Cloud 
 
 - ✅ **Administer Active Directory Domain Services** • [View Applied Skill](https://learn.microsoft.com/api/credentials/share/en-us/RahimahSulayman-0915/7A411D88F7CD377D?sharingId=573E6CF4FC4F787C)
   
-## 🤝 Open Source Contributions
+## Open Source Contributions
 
   Successfully contributed to and merged changes into public GitHub projects.
 
@@ -158,7 +158,7 @@ Looking forward to contributing to more open-source projects in Cloud, DevOps, L
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rahimah-sulayman" target="_blank">
@@ -191,6 +191,15 @@ A full-stack platform designed to help communities **report, document, and track
 **Tech Stack:** `React` `Vite` `JavaScript` `Tailwind CSS` `Node.js` `Express` `Google AI` `GPS`
 
 **[Live Website](https://www.afrovant.com.ng/) · [GitHub](https://github.com/rahimahisah17/AFROVANT)**
+
+---
+### [Bloom](https://bloom-logic-12a80.web.app/)
+
+> **A daily puzzle game combining deterministic challenges, progress tracking, and a rewarding garden experience.**
+
+A modern puzzle app featuring **daily grids, difficulty levels, user profiles, subscriptions, streaks, share cards, and garden unlock rewards.**
+
+**Tech Stack:** `React` `Vite` `TypeScript` `Tailwind CSS` `Firebase` `Firestore` `Cloud Functions` `Paystack`
 
 ---
 
