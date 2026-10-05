@@ -188,12 +188,12 @@ Looking forward to contributing to more open-source projects in Cloud, DevOps, L
 
 A full-stack platform designed to help communities **report, document, and track local issues** using location-aware and AI-powered capabilities.
 
-**Tech Stack:** `React` `Vite` `JavaScript` `Tailwind CSS` `Node.js` `Express` `Google AI` `GPS`
+**Tech Stack:** `React` `Vite` `JavaScript` `Tailwind CSS` `Node.js` `Express` `GPS`
 
 **[Live Website](https://www.afrovant.com.ng/) · [GitHub](https://github.com/rahimahisah17/AFROVANT)**
 
 ---
-### [Bloom](https://bloom-logic-12a80.web.app/)
+### [Bloom](https://github.com/rahimahisah17/bloom)
 
 > **A daily puzzle game combining deterministic challenges, progress tracking, and a rewarding garden experience.**
 
