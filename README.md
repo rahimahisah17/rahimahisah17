@@ -42,6 +42,8 @@ AZ-104 Certified | KCNA Certified | Linux Enthusiast | PL-300 Certified | Cloud 
 - ✅ **Resolve GitHub issues by using GitHub Copilot** • [View Applied Skill](https://learn.microsoft.com/api/credentials/share/en-us/RahimahSulayman-0915/4DF61593A72681A9?sharingId=573E6CF4FC4F787C)
 
 - ✅ **Administer Active Directory Domain Services** • [View Applied Skill](https://learn.microsoft.com/api/credentials/share/en-us/RahimahSulayman-0915/7A411D88F7CD377D?sharingId=573E6CF4FC4F787C)
+
+- ✅ **Deploy cloud-native apps using Azure Container Apps** • [View Applied Skill](https://learn.microsoft.com/api/credentials/share/en-us/RahimahSulayman-0915/F1BB3FC2F7D56801?sharingId=573E6CF4FC4F787C)
   
 ## Open Source Contributions
 
