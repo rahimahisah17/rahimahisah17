@@ -19,7 +19,7 @@ AZ-104 Certified | KCNA Certified | Linux Enthusiast | PL-300 Certified | Cloud 
 
 ## Certifications
 
-- ☁️ **Microsoft Certified: Azure Administrator Associate (AZ-104)** • [View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/RahimahSulayman-0915/1BC3CDABA4EBB49?sharingId=573E6CF4FC4F787C)
+- **Microsoft Certified: Azure Administrator Associate (AZ-104)** • [View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/RahimahSulayman-0915/1BC3CDABA4EBB49?sharingId=573E6CF4FC4F787C)
 
 - **Microsoft Certified: Power BI Data Analyst Associate** • [View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/RahimahSulayman-0915/5F1BFD3BA9DAA7EB?sharingId=573E6CF4FC4F787C)
 
