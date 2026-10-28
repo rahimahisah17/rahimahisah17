@@ -205,6 +205,18 @@ A modern puzzle app featuring **daily grids, difficulty levels, user profiles, s
 
 ---
 
+### [AKS Kubernetes Lab](https://github.com/rahimahisah17/aks-kubernetes-lab)
+
+> **A nine-part Azure Kubernetes Service (AKS) project.**
+
+It covers **cluster provisioning, Kubernetes workloads, networking, persistent storage, autoscaling, FinOps, and Azure resource cleanup, with version-controlled manifests and practical technical write-ups.**
+
+**Tech Stack:** `aks` `autoscaling` `containers` `kubernetes manifests` `yaml` `kubectl` `azure`
+
+**[GitHub Repository](https://github.com/rahimahisah17/aks-kubernetes-lab)**
+
+---
+
 ### [Cloud DevOps CI/CD Lab](https://github.com/rahimahisah17/cloud-devops-ci-cd-lab)
 
 > **Production-inspired DevOps workflow demonstrating automated CI/CD, containerization, and modern Git practices.**
