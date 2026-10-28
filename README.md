@@ -195,6 +195,18 @@ A full-stack platform designed to help communities **report, document, and track
 **[Live Website](https://www.afrovant.com.ng/) · [GitHub](https://github.com/rahimahisah17/AFROVANT)**
 
 ---
+### [Raikart](https://github.com/rahimahisah17/raikart)
+
+> **A modern, full-stack e-commerce application built with React, Node.js, Express, and PostgreSQL.**
+
+The project is designed as a practical learning platform for **Docker, containerisation, cloud integrations, CI/CD and Kubernetes** with features such as product browsing, authentication, shopping carts, wishlists, checkouts, payments.
+
+**Tech Stack:** `azure` `cicd` `express` `firebase` `nodejs` `react`
+
+**[GitHub Repository](https://github.com/rahimahisah17/raikart)**
+
+---
+
 ### [Bloom](https://github.com/rahimahisah17/bloom)
 
 > **A daily puzzle game combining deterministic challenges, progress tracking, and a rewarding garden experience.**
